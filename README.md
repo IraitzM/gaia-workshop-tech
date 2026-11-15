@@ -8,7 +8,7 @@ Puedes abrir y ejecutar directamente cualquiera de los cuadernos en Google Colab
 
 ### Sesión 2: Del Portátil a la QPU
 
-#### Bloque 1.1: Acceso y Envío a QPUs Reales y Emuladores
+#### Bloque 2.1: Acceso y Envío a QPUs Reales y Emuladores
 
 | Cuaderno | Descripción | Colab |
 |---|---|:---:|
@@ -16,7 +16,7 @@ Puedes abrir y ejecutar directamente cualquiera de los cuadernos en Google Colab
 | **`02-iqm-ionq-submission.ipynb`** | Configuración y envío de trabajos a plataformas cuánticas comerciales (**IQM Resonance** e **IonQ Cloud**). | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IraitzM/gaia-workshop-tech/blob/main/01-del-portatil-a-la-qpu/notebooks/02-iqm-ionq-submission.ipynb) |
 | **`03-aquila-submission.ipynb`** | Simulación analógica de Hamiltonianos (AHS) y problema del conjunto independiente máximo (MIS) en **QuEra Aquila** (átomos neutros vía AWS Braket). | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IraitzM/gaia-workshop-tech/blob/main/01-del-portatil-a-la-qpu/notebooks/03-aquila-submission.ipynb) |
 
-#### Bloque 1.2: Formulación QUBO y Optimización Combinatoria
+#### Bloque 2.2: Formulación QUBO y Optimización Combinatoria
 
 | Cuaderno | Descripción | Colab |
 |---|---|:---:|
