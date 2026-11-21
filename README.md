@@ -26,6 +26,8 @@ Puedes abrir y ejecutar directamente cualquiera de los cuadernos en Google Colab
 
 ### Sesión 3: De la Formulación a la Optimización Cuántica
 
+Iremos construyendo poco a poco la noción de cómo aporta la cuántica al mundo de la optimización con el objetivo de comprender mejor comparativas como las del [QOBLIB](https://zib-aopt.github.io/QOBLIB/index.html) de [IBM](https://www.ibm.com/quantum/blog/qoblib).
+
 | Cuaderno | Descripción | Colab |
 |---|---|:---:|
 | **`01-annealing-maxcut.ipynb`** | **Annealing y otros solvers (Max-Cut):** Mismo QUBO de la sesión anterior. Referencia exacta, recocido simulado con `neal`, evolución adiabática ideal con QuTiP, bifurcación simulada y Fujitsu Digital Annealer vía DADK. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IraitzM/gaia-workshop-tech/blob/main/02-optimizacion-cuantica/notebooks/01-annealing-maxcut.ipynb) |
@@ -35,6 +37,8 @@ Puedes abrir y ejecutar directamente cualquiera de los cuadernos en Google Colab
 | **`05-vqe-ionq-simulator.ipynb`** | **VQE en IonQ (Max-Cut):** El circuito VQE óptimo muestreado en el `ionq_simulator`. Ansatz hardware-efficient, comparativa Aer frente a IonQ y bucle completo opcional. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IraitzM/gaia-workshop-tech/blob/main/02-optimizacion-cuantica/notebooks/05-vqe-ionq-simulator.ipynb) |
 
 ### Sesión 4: Aprender con Qubits (Aprendizaje Cuántico)
+
+El aprendizaje automático, machine learning o inteligencia artificial son conceptos que no son ajenos a la cuántica. En esta sesión exploraremos qué nos aporta la cuántica a todo esto.
 
 | Cuaderno | Descripción | Colab |
 |---|---|:---:|
